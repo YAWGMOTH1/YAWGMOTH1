@@ -19,23 +19,18 @@
 
 <h2 align="center">🔮 Swift/Java Master Race 🔮</h2>
 
-<p align="center">
 <h2 align="center">🔮 Tecnologías que uso 🔮</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=python" alt="Python"/>
-  <img src="https://img.shields.io/badge/-React-000000?style=for-the-badge&logo=react" alt="React"/>
-  <img src="https://img.shields.io/badge/-Node.js-000000?style=for-the-badge&logo=node.js" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=git" alt="Git"/>
-  ![Red Hat](https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
-  ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white) 
+  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python" alt="Python"/>
+  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react" alt="React"/>
+  <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git" alt="Git"/>
+  <img src="https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white" alt="Red Hat"/>
+  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="Swift"/>
 </p>
-
-
-</p>
-
 
 <p align="center">
-  <img src="https://i.imgur.com/3ZQZQ9M.png" alt="Gótico" width="200"/>
+  <img src="https://imgur.com/gallery/seal-boop-gif-fjrVAhq" alt="Gótico" width="200"/>
 </p>
