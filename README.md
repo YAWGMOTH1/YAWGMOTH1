@@ -32,5 +32,5 @@
 </p>
 
 <p align="center">
-  <img src="https://imgur.com/gallery/seal-boop-gif-fjrVAhq" alt="Gótico" width="200"/>
+  
 </p>
