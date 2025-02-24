@@ -1,27 +1,33 @@
 # 💫 About Me:
 🌱 I’m currently learning : Programming<br>💬 Ask me about : Anything<br>⚡ Fun fact : TCG collector 
 
+<p align="center">
+  <img src="https://i.imgur.com/3ZQZQ9M.png" alt="Gótico" width="200"/>
+</p>
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![AZUREDEVOPS](https://img.shields.io/badge/azuredevops-0078D7.svg?style=for-the-badge&logo=azuredevops&logoColor=white&color=%230078D7) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Bitwarden](https://img.shields.io/badge/bitwarden-%23175DDC.svg?style=for-the-badge&logo=bitwarden&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=YAWGMOTH1&theme=omni&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=YAWGMOTH1&theme=omni&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YAWGMOTH1&theme=omni&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<h1 align="center">🖤🖤</h1>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=YAWGMOTH1&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
+<p align="center">
+  <img src="https://i.imgur.com/3ZQZ9M.gif" alt="Gótico" width="500"/>
+</p>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<h2 align="center">🦇 Sobre mí 🦇</h2>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=YAWGMOTH1&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  
+</p>
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+<h2 align="center">🔮 Swift/Java Master Race 🔮</h2>
 
----
-[![](https://visitcount.itsvg.in/api?id=YAWGMOTH1&icon=0&color=0)](https://visitcount.itsvg.in)
+<p align="center">
+  <img src="https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=python" alt="Python"/>
+  <img src="https://img.shields.io/badge/-React-000000?style=for-the-badge&logo=react" alt="React"/>
+  <img src="https://img.shields.io/badge/-Node.js-000000?style=for-the-badge&logo=node.js" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=git" alt="Git"/>
+</p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<p align="center">
+  <img src="https://i.imgur.com/3ZQZQ9M.png" alt="Gótico" width="200"/>
+</p>
