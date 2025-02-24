@@ -2,16 +2,16 @@
 🌱 I’m currently learning : Programming<br>💬 Ask me about : Anything<br>⚡ Fun fact : TCG collector 
 
 <p align="center">
-  <img src="https://i.imgur.com/3ZQZQ9M.png" alt="Gótico" width="200"/>
+  <img src="https://www.muylinux.com/wp-content/uploads/2024/01/Parrot.jpg" alt="Gótico" width="200"/>
 </p>
 
 <h1 align="center">🖤🖤</h1>
 
 <p align="center">
-  <img src="https://i.imgur.com/3ZQZ9M.gif" alt="Gótico" width="500"/>
+  <img src="https://i.imgur.com/lhZes2G.gif" alt="Gótico" width="500"/>
 </p>
 
-<h2 align="center">🦇 Sobre mí 🦇</h2>
+
 
 <p align="center">
   
