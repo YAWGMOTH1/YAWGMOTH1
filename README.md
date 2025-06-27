@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning : Programming<br>💬 Ask me about : Anything<br>⚡ Fun fact : TCG collector 
+🌱 I’m currently learning : Programming<br>💬 Ask me about : Anything<br>⚡ 
 
 <p align="center">
   <img src="https://www.muylinux.com/wp-content/uploads/2024/01/Parrot.jpg" alt="Gótico" width="300"/>
